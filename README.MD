@@ -51,7 +51,7 @@ ChatGPT：
 <p align="center">
 <img 
     src="assets/prompt-ebook-chatgpt.png"
-    width="800"  
+    width="600"  
 />
 </p>     
 
@@ -60,7 +60,7 @@ Leonardo.Ai：
 <p align="center">
 <img 
     src="assets/prompt-cover-leonardoai.png"
-    width="800"  
+    width="980"  
 />
 </p>  
 
